@@ -98,8 +98,8 @@ content:
     content:
       - layout: top-right
         title: Jeju National University
-        sub_title: Department of Software (eg. Computer Engineering)
-        caption: Date Range (eg. 2021 - 2023)
+        sub_title: Qualifications (eg. Computer Engineering)
+        caption: Date Range (eg. 2021 -)
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
