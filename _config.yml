@@ -96,7 +96,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Jeju National University
         sub_title: Qualifications (eg. Computer Engineering)
         caption: Date Range (eg. 2021 -)
@@ -105,11 +105,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
           
-      - layout: top-right
+      - layout: top-left
         title: 晨星女子高等學校
         caption: Date Range (eg. 2017 - 2020)
         
-      - layout: top-right
+      - layout: top-left
         title: 老衡中學校
         caption: Date Range (eg. 2014 - 2017)
 
