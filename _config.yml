@@ -67,7 +67,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: YOLO 알고리즘에 따른 공사 현장 안전 장비 착용 여부 감지 AI 구현
+        title: Detecting whether safety equipment is worn at construction sites according to YOLO algorithm AI
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -99,7 +99,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
