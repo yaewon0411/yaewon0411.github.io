@@ -80,7 +80,9 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          This project can be used as an awareness program where wearing safety equipment is compulsory. 
+          If the difference in accident rate depending on whether or not the awareness program is used in the field is visibly revealed, 
+          the statistics based on this are expected to improve the related system for the mandatory wearing of safety equipment and improve site safety awareness.
 
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
