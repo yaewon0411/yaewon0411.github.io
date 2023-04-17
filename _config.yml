@@ -104,6 +104,16 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+          
+      - layout: top-right
+        title: Shinseong Girls' High School
+        caption: Date Range (eg. 2017 - 2020)
+        
+      - layout: top-right
+        title: 老衡中學校
+        caption: Date Range (eg. 2014 - 2017)
+
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
