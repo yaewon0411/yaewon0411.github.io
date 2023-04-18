@@ -64,10 +64,10 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Detecting whether safety equipment is worn at construction sites according to YOLO algorithm AI
+        title: YOLO algorithm AI
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -78,7 +78,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          to detect whether safety equipment is worn at construction sites according to
         description: | # this will include new lines to allow paragraphs
           This project can be used as an awareness program where wearing safety equipment is compulsory. 
           If the difference in accident rate depending on whether or not the awareness program is used in the field is visibly revealed, 
