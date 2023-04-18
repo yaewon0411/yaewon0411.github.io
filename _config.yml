@@ -84,7 +84,9 @@ content:
           If the difference in accident rate depending on whether or not the awareness program is used in the field is visibly revealed, 
           the statistics based on this are expected to improve the related system for the mandatory wearing of safety equipment and improve site safety awareness.
 
-        title: YOLO algorithm AI
+        title: Detecting where safety equipment
+		   is worn at construction sites according to
+               YOLO algorithm AI
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
