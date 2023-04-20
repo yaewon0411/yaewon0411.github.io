@@ -68,18 +68,15 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: AI detecting whether safety equipment is worn at construction sites
-        sub_title: (optional)
+        sub_title: Team Members ":" yaewon An, yuhyang Hong
         link_text: Link Text
-        additional_links:
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project
         description: | # this will include new lines to allow paragraphs
+          This project was implemented using YOLO v3,
+          It aims to be used as a recognition program where wearing safety equipment is mandatory.
+          If there is a visible difference in the accident rate depending on the use of the recognition program in the field,
+          Statistics based on this are expected to improve the maintenance of related systems and on-site safety awareness for mandatory wearing of safety equipment.
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
