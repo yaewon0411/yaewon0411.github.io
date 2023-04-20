@@ -65,23 +65,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-      #border: weak  # Value of `weak` will display a weak border below this item. # Any
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: AI Algorithm Project1
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
+        title1: AI Algorithm Project1
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        #additional_links:
+         # - title: Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
+           # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title: Github page for project (eg. sproogen/modern-resume-theme)
+           # icon: fab fa-github
+           # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
           Short overview of the project
-        description: | # this will include new lines to allow paragraphs
+        description1: | # this will include new lines to allow paragraphs
 
-        title: AI Algorithm Project2
+        title2: AI Algorithm Project2
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -93,7 +93,7 @@ content:
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project
-        description: | # this will include new lines to allow paragraphs  
+        description2: | # this will include new lines to allow paragraphs  
   - title: Experience
     layout: list
     content:
