@@ -70,8 +70,8 @@ content:
         title: AI detecting whether safety equipment is worn at construction sites
         sub_title: Team Member |            yaewon An, yuhyang Hong
         link_text: Link Text
-        quote: >
-          Images ![alt text](/images/yolo project image.png "project image")
+        quote:
+          ![alt text](/images/yolo project image.png "project image")
         description: | # this will include new lines to allow paragraphs
           This project was implemented using YOLO v3,
           It aims to be used as a recognition program where wearing safety equipment is mandatory.
