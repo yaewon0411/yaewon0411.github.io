@@ -67,7 +67,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: YOLO algorithm AI
+        title: AI Algorithm Project 1
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -81,7 +81,12 @@ content:
           Short overview of the project
         description: | # this will include new lines to allow paragraphs
 
+<<<<<<< HEAD
         title: AI Algorithm Project
+=======
+        title: AI Algorithm Project 2
+	sub_title : Detecting where safety equipment is worn at construction sites according to YOLO algorithm AI
+>>>>>>> origin/master
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
