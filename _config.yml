@@ -68,8 +68,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: AI detecting whether safety equipment is worn at construction sites
-        sub_title: Team Member |
-        sub_title1: yaewon An, yuhyang Hong
+        sub_title: Team Member |            yaewon An, yuhyang Hong
         link_text: Link Text
         quote: >
           Short overview of the project
