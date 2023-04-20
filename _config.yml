@@ -71,7 +71,7 @@ content:
         sub_title: Team Member |            yaewon An, yuhyang Hong
         link_text: Link Text
         quote:
-          ![샹](/images/yolo project image.png "project image")
+          ![샹](/images/yolo.png "project image")
         description: | # this will include new lines to allow paragraphs
           This project was implemented using YOLO v3,
           It aims to be used as a recognition program where wearing safety equipment is mandatory.
